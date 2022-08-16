@@ -9,8 +9,8 @@
 
 ## Laravel Trait example
 
-  Create the database name "traits"
-  Run "php artisan migrate"
-  Start the server - php artisan serve 
+  Create the database name "traits" <br />
+  Run "php artisan migrate"<br />
+  Start the server - php artisan serve <br />
   open the following url - http://localhost:8000/students
 
